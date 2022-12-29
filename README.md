@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! 👋
 
-- 🔭 Sou estudante de Redes de Computadores do 3° Ano do Ensino Médio 
+- 🔭 Sou Técnico em Redes de Computadores  
 - 🌱 Estou estudando programação voltada ao desenvolvimento WEB com HTML, CSS & JavaScript
 - 🚀 Quero aprender tecnologias específicas como React e ReactNative
 - 📫 Contate-me: marcoscaio868@gmail.com
