@@ -1,10 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! 👋
 
-- 🔭 Sou Técnico em Redes de Computadores  
-- 🌱 Estou estudando programação voltada ao desenvolvimento WEB com HTML, CSS & JavaScript
-- 🚀 Quero aprender tecnologias específicas como React e ReactNative
-- 📫 Contate-me: marcoscaio868@gmail.com
-- ⚡ Fun fact: Gosto de cantar e tocar alguns instrumentos 
+Meu nome é Marcos Caio!
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/marcosscaio"> 
